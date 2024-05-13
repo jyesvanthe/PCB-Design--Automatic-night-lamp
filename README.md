@@ -40,15 +40,17 @@ During the daytime when there is a light, the LDR has very low resistance and al
 
 # Output
 
+
+![image](https://github.com/jyesvanthe/PCB-Design--Automatic-night-lamp/assets/150319392/21ec14b8-1b73-4f94-92a2-2c2dfc5a9bf8)
+
 ### Schematic diagram
 
+![image](https://github.com/jyesvanthe/PCB-Design--Automatic-night-lamp/assets/150319392/7ef25a7e-fc88-459b-b301-9c6d52a5f8b2)
 
 
 ### Layout diagram
 
-
-
-
+![image](https://github.com/jyesvanthe/PCB-Design--Automatic-night-lamp/assets/150319392/ccf266d3-9179-489d-8cbe-fea8b8269960)
 
 # Result
 Thus the automatic night lamp circuit was designed using proteus software.
